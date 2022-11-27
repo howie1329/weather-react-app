@@ -1,0 +1,20 @@
+
+
+{
+    "Users":[
+        {
+            "Name": "Howard",
+            "Age": 20,
+            "Grades":
+            {
+                "Test1":100,
+                "Test2":90,
+                "Test3":39
+            }
+        },
+        {
+            "Name": "Thomas",
+            "Age": 10
+        }
+    ]
+}
